@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\50492\source\repos\engine_1_project\fbx2binary\main.cpp(197): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FBX2Binary.vcxproj -> C:\Users\50492\Source\Repos\Engine_1_project\x64\Debug\FBX2Binary.exe

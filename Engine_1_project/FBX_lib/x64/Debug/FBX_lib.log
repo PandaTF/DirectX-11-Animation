@@ -1,0 +1,3 @@
+﻿  FBX_lib.cpp
+c:\users\50492\source\repos\engine_1_project\fbx_lib\fbx_lib.cpp(315): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FBX_lib.vcxproj -> C:\Users\50492\Source\Repos\Engine_1_project\x64\Debug\FBXLIB.dll

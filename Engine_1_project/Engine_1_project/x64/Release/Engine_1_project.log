@@ -1,0 +1,6 @@
+﻿  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\50492\source\repos\engine_1_project\engine_1_project\main.cpp(364): error C3861: 'D3DCompileFromFile': identifier not found
+  WICTextureLoader.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\wincodec.h(1014): error C3646: 'PixelFormat': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\wincodec.h(1014): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
